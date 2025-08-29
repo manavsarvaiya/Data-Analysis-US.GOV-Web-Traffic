@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 # 1. Data Ingestion
 print("Loading JSON data...")
-data_file = "data/usagov_bitly_data2012-03-16-1331923249-checkpoint.txt"
+data_file = "Data/usagov_bitly_data2012-03-16-1331923249-checkpoint.txt"
 
 # Parse each line of the file into a list of Python dictionaries
 records = [json.loads(line) for line in open(data_file)]
