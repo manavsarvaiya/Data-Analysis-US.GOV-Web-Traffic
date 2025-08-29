@@ -1,0 +1,56 @@
+PLOT DESCRIPTIONS AND ANALYSIS
+==================================================
+
+=== Top 10 Time Zones Distribution ===
+This bar chart shows the count by time zone.
+
+Total observations: 3560
+Top 10 categories:
+1. America/New_York: 1251 observations (35.1%)
+2. unknown: 521 observations (14.6%)
+3. America/Chicago: 400 observations (11.2%)
+4. America/Los_Angeles: 382 observations (10.7%)
+5. America/Denver: 191 observations (5.4%)
+6. missing: 120 observations (3.4%)
+7. Europe/London: 74 observations (2.1%)
+8. Asia/Tokyo: 37 observations (1.0%)
+9. Pacific/Honolulu: 36 observations (1.0%)
+10. Europe/Madrid: 35 observations (1.0%)
+
+
+=== Top 10 Time Zones by Operating System (Counts) ===
+This stacked bar chart shows user count by time zone with breakdown by operating system.
+
+Category breakdown:
+- America/Sao_Paulo: 33.0 total (60.6% Windows, 39.4% Not Windows)
+- Europe/Madrid: 35.0 total (54.3% Windows, 45.7% Not Windows)
+- Pacific/Honolulu: 36.0 total (100.0% Windows, 0.0% Not Windows)
+- Asia/Tokyo: 37.0 total (94.6% Windows, 5.4% Not Windows)
+- Europe/London: 74.0 total (41.9% Windows, 58.1% Not Windows)
+- America/Denver: 191.0 total (30.9% Windows, 69.1% Not Windows)
+- America/Los_Angeles: 382.0 total (66.0% Windows, 34.0% Not Windows)
+- America/Chicago: 400.0 total (71.2% Windows, 28.7% Not Windows)
+- : 521.0 total (53.0% Windows, 47.0% Not Windows)
+- America/New_York: 1251.0 total (72.9% Windows, 27.1% Not Windows)
+
+
+=== Top 10 Time Zones by Operating System (Normalized) ===
+This stacked bar chart shows proportion by time zone with breakdown by operating system.
+
+Category breakdown:
+- America/Sao_Paulo: 1.0 total (60.6% Windows, 39.4% Not Windows)
+- Europe/Madrid: 1.0 total (54.3% Windows, 45.7% Not Windows)
+- Pacific/Honolulu: 1.0 total (100.0% Windows, 0.0% Not Windows)
+- Asia/Tokyo: 1.0 total (94.6% Windows, 5.4% Not Windows)
+- Europe/London: 1.0 total (41.9% Windows, 58.1% Not Windows)
+- America/Denver: 1.0 total (30.9% Windows, 69.1% Not Windows)
+- America/Los_Angeles: 1.0 total (66.0% Windows, 34.0% Not Windows)
+- America/Chicago: 1.0 total (71.2% Windows, 28.7% Not Windows)
+- : 1.0 total (53.0% Windows, 47.0% Not Windows)
+- America/New_York: 1.0 total (72.9% Windows, 27.1% Not Windows)
+
+
+ADDITIONAL INSIGHTS:
+====================
+Total unique time zones: 98
+Most common time zone: America/New_York with 1251 users
